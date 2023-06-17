@@ -1,5 +1,5 @@
 # WebPages 1998-1999
-**diffpsy.html**
+**diffpsy1.html**
 
 __Official site: Karl-Franzens-University Graz,  
 Department of Psychology,  
